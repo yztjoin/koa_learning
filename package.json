@@ -11,11 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "busboy": "^0.3.1",
+    "ejs": "^3.1.6",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^7.4.0",
     "koa-session-minimal": "^4.0.0",
     "koa-static": "^5.0.0",
+    "koa-views": "^7.0.1",
     "util": "^0.12.4"
   }
 }
